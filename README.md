@@ -14,7 +14,7 @@ STUDENTS: Please look over these files for ideas or reference. Please <b>DO NOT<
 <h3>Some notes about my program structure:</h3>
  <h4> main.cpp file </h4>
   <li>The first line is a comment with the file name, i.e. //main.cpp
-  <li>Next is a multi line comment section consisting of chapter and exercise numbers, the name of the exercise, a description &nbsp;&nbsp;&nbsp;of the exercise, and any pertinant examples from the book's exercise description
+  <li>Next is a multi line comment section consisting of chapter and exercise numbers, the name of the exercise, a description &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of the exercise, and any pertinant examples from the book's exercise description
   <li>Next is the #include section
   <li>Then the Standard library functions used in the program
   <li>Finally the main function, with comments about the program execution
