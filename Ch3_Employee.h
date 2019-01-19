@@ -6,6 +6,9 @@ Employee class public interface for functions defined in "Employee.cpp"
 
 */
 
+//#includes
+#include<string>
+
 //STDLib functions
 using std::string;
 
