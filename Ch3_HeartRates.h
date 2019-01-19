@@ -6,6 +6,9 @@ HeartRates class public interface for functions defined in "HeartRates.cpp"
 
 */
 
+//#includes
+#include<string>
+
 //STDLIB functions
 using std::string;
 
